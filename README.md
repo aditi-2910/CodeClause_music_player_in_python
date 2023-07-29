@@ -6,4 +6,10 @@ The libraries required are:
 3. tkinter
 4. pygame
 
-   
+The music player performs the following functions:
+1. load songs from the system into the music system
+2. Pause/play the songs
+3. play the next/previous track
+4. adjust volume
+
+
